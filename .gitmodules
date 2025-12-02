@@ -1,3 +1,6 @@
 [submodule "@PAGTESOURO_PAPEM"]
 	path = @PAGTESOURO_PAPEM
 	url = https://github.com/brunadevfull/PAGTESOURO_PAPEM.git
+[submodule "@dgom_pagtesouro"]
+	path = @dgom_pagtesouro
+	url = https://github.com/brunadevfull/dgom_pagtesouro.git
