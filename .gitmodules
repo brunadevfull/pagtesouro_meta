@@ -1,0 +1,3 @@
+[submodule "@PAGTESOURO_PAPEM"]
+	path = @PAGTESOURO_PAPEM
+	url = https://github.com/brunadevfull/PAGTESOURO_PAPEM.git
